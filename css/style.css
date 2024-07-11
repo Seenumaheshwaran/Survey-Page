@@ -1,0 +1,27 @@
+img{
+    width: 150px;
+    margin-left: 40%;
+}
+.checked {
+    color: orange;
+  }
+.flex{
+    float: left;
+
+}
+.container{
+    border: solid 2px;
+    margin-top: 2%;
+    width: 300px;
+    margin: 40px auto;
+}
+.one{
+    margin-left: 35%;
+    width: 300px;
+    background-color: aquamarine;
+    height: 50px;
+
+}
+.col-12{
+    padding-bottom: 20px;
+}
